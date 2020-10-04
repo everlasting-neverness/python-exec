@@ -1,0 +1,8 @@
+build
+dist
+Scripts
+Lib
+Include
+*.cfg
+*.spec
+__pycache__
